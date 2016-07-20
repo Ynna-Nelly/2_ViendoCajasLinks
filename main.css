@@ -1,0 +1,9 @@
+h1, p, li{
+	font-family: 'Open Sans', sans-serif;
+}
+
+div{
+	display: inline-block;
+	margin-left: 10px;
+	float: right;
+}
